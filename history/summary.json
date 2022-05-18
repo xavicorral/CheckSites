@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/www.podocad.net",
     "slug": "podocad",
     "status": "down",
-    "uptime": "8.75%",
-    "uptimeDay": "8.75%",
-    "uptimeWeek": "8.75%",
-    "uptimeMonth": "8.75%",
-    "uptimeYear": "8.75%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-17": 0
+      "2022-05-18": 105,
+      "2022-05-17": 602
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://favicons.githubusercontent.com/www.palabreto.com",
     "slug": "palabreto",
     "status": "down",
-    "uptime": "3.75%",
-    "uptimeDay": "3.75%",
-    "uptimeWeek": "3.75%",
-    "uptimeMonth": "3.75%",
-    "uptimeYear": "3.75%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-17": 0
+      "2022-05-18": 105,
+      "2022-05-17": 602
     }
   }
 ]
