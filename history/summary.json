@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 76,
-    "timeWeek": 87,
-    "timeMonth": 106,
+    "timeDay": 96,
+    "timeWeek": 88,
+    "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2023-07-14": 16
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 879,
-    "timeDay": 779,
-    "timeWeek": 895,
-    "timeMonth": 911,
-    "timeYear": 882,
+    "timeDay": 1113,
+    "timeWeek": 915,
+    "timeMonth": 917,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2022-09-07": 130
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "down",
-    "uptime": "67.51%",
+    "uptime": "67.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.09%",
-    "uptimeYear": "80.09%",
-    "time": 6950,
-    "timeDay": 366,
-    "timeWeek": 501,
-    "timeMonth": 481,
-    "timeYear": 6991,
+    "uptimeMonth": "64.81%",
+    "uptimeYear": "79.82%",
+    "time": 6934,
+    "timeDay": 655,
+    "timeWeek": 516,
+    "timeMonth": 486,
+    "timeYear": 6983,
     "dailyMinutesDown": {
-      "2023-07-30": 83,
+      "2023-07-31": 82,
+      "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -148,7 +149,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -156,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 83,
+      "2023-07-31": 83,
+      "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -519,8 +521,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   }
 ]
