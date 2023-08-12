@@ -6,17 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 246,
+    "timeDay": 237,
     "timeWeek": 164,
     "timeMonth": 139,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-08-11": 8,
       "2023-07-14": 16
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 881,
-    "timeDay": 1264,
-    "timeWeek": 933,
-    "timeMonth": 919,
-    "timeYear": 886,
+    "time": 880,
+    "timeDay": 607,
+    "timeWeek": 920,
+    "timeMonth": 912,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2022-09-07": 130
     }
@@ -46,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "down",
-    "uptime": "65.70%",
+    "uptime": "65.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.34%",
-    "uptimeYear": "76.78%",
+    "uptimeMonth": "25.40%",
+    "uptimeYear": "76.56%",
     "time": 6886,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 485,
-    "timeYear": 7028,
+    "timeMonth": 491,
+    "timeYear": 7045,
     "dailyMinutesDown": {
-      "2023-08-11": 218,
+      "2023-08-12": 66,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -147,8 +147,7 @@
       "2023-03-30": 25,
       "2023-03-15": 16,
       "2023-02-23": 17,
-      "2022-11-03": 129,
-      "2022-08-12": 533
+      "2022-11-03": 129
     }
   },
   {
@@ -168,7 +167,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 218,
+      "2023-08-12": 66,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -531,8 +531,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   }
 ]
