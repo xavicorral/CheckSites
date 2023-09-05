@@ -1,7 +1,7 @@
 url: https://www.podocad.net
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2023-09-04T23:02:21.262Z
+status: down
+code: 500
+responseTime: 1921
+lastUpdated: 2023-09-05T10:49:17.855Z
 startTime: 2022-05-17T13:57:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
