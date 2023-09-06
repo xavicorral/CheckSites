@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 73,
-    "timeWeek": 94,
-    "timeMonth": 107,
+    "timeDay": 117,
+    "timeWeek": 99,
+    "timeMonth": 108,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2023-07-14": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 878,
-    "timeDay": 747,
-    "timeWeek": 748,
-    "timeMonth": 853,
+    "timeDay": 822,
+    "timeWeek": 727,
+    "timeMonth": 855,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2022-09-07": 130
@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "64.71%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "37.29%",
+    "uptime": "64.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "39.25%",
     "uptimeYear": "73.22%",
-    "time": 6668,
-    "timeDay": 1083,
-    "timeWeek": 755,
-    "timeMonth": 803,
-    "timeYear": 6987,
+    "time": 6654,
+    "timeDay": 1137,
+    "timeWeek": 766,
+    "timeMonth": 799,
+    "timeYear": 6980,
     "dailyMinutesDown": {
-      "2023-09-05": 8,
       "2023-08-24": 761,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -180,7 +179,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-05": 658,
+      "2023-09-06": 69,
+      "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -543,8 +543,7 @@
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
-      "2022-09-07": 1440,
-      "2022-09-06": 1440
+      "2022-09-07": 1440
     }
   }
 ]
