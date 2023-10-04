@@ -6,9 +6,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 90,
@@ -16,7 +16,6 @@
     "timeMonth": 97,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-10-04": 7,
       "2023-07-14": 16
     }
   },
@@ -25,18 +24,20 @@
     "url": "https://www.thecolvinco.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.thecolvinco.com.ico",
     "slug": "colvin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 1428,
-    "timeWeek": 990,
-    "timeMonth": 969,
+    "time": 884,
+    "timeDay": 1048,
+    "timeWeek": 950,
+    "timeMonth": 959,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "Podocad",
@@ -47,15 +48,15 @@
     "uptime": "65.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.45%",
-    "uptimeYear": "70.93%",
+    "uptimeMonth": "72.32%",
+    "uptimeYear": "70.92%",
     "time": 6258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 743,
     "timeYear": 6738,
     "dailyMinutesDown": {
-      "2023-10-04": 1167,
+      "2023-10-04": 1227,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -188,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 1167,
+      "2023-10-04": 1227,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
