@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 93,
-    "timeWeek": 91,
-    "timeMonth": 98,
+    "timeDay": 68,
+    "timeWeek": 88,
+    "timeMonth": 96,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2023-07-14": 16
@@ -26,15 +26,15 @@
     "slug": "colvin",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 883,
-    "timeDay": 750,
-    "timeWeek": 880,
-    "timeMonth": 955,
-    "timeYear": 893,
+    "timeDay": 763,
+    "timeWeek": 878,
+    "timeMonth": 954,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2023-10-04": 33
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "down",
-    "uptime": "65.07%",
+    "uptime": "64.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.67%",
-    "uptimeYear": "70.86%",
+    "uptimeMonth": "68.38%",
+    "uptimeYear": "70.59%",
     "time": 6258,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 747,
-    "timeYear": 6746,
+    "timeMonth": 709,
+    "timeYear": 6750,
     "dailyMinutesDown": {
-      "2023-10-05": 71,
+      "2023-10-06": 71,
+      "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -190,7 +191,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 71,
+      "2023-10-06": 71,
+      "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -553,8 +555,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   }
 ]
