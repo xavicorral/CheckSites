@@ -8,12 +8,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 100,
-    "timeWeek": 82,
-    "timeMonth": 126,
+    "timeDay": 76,
+    "timeWeek": 77,
+    "timeMonth": 125,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 34,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 922,
-    "timeDay": 1421,
-    "timeWeek": 1095,
-    "timeMonth": 1024,
+    "time": 923,
+    "timeDay": 1194,
+    "timeWeek": 1093,
+    "timeMonth": 1039,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2023-10-04": 33
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "54.19%",
+    "uptime": "54.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.29%",
-    "uptimeYear": "35.19%",
-    "time": 3593,
-    "timeDay": 762,
-    "timeWeek": 609,
-    "timeMonth": 580,
-    "timeYear": 767,
+    "uptimeMonth": "78.58%",
+    "uptimeYear": "35.47%",
+    "time": 3577,
+    "timeDay": 1356,
+    "timeWeek": 698,
+    "timeMonth": 607,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2024-05-08": 827,
       "2024-05-07": 1440,
@@ -296,8 +296,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   },
   {
@@ -317,7 +316,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 82,
+      "2024-06-02": 82,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -680,8 +680,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   }
 ]
