@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 291,
-    "timeWeek": 181,
-    "timeMonth": 154,
+    "timeDay": 119,
+    "timeWeek": 185,
+    "timeMonth": 151,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 918,
-    "timeWeek": 1138,
-    "timeMonth": 1047,
-    "timeYear": 1090,
+    "time": 1035,
+    "timeDay": 1363,
+    "timeWeek": 1126,
+    "timeMonth": 1062,
+    "timeYear": 1091,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "67.52%",
+    "uptime": "67.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.26%",
+    "uptimeYear": "90.53%",
     "time": 788,
-    "timeDay": 689,
-    "timeWeek": 744,
-    "timeMonth": 754,
+    "timeDay": 983,
+    "timeWeek": 751,
+    "timeMonth": 761,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-02-21": 23,
@@ -91,8 +91,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -101,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
     "status": "up",
-    "uptime": "0.96%",
+    "uptime": "1.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.20%",
-    "uptimeYear": "2.76%",
-    "time": 316,
-    "timeDay": 217,
-    "timeWeek": 233,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "uptimeMonth": "34.49%",
+    "uptimeYear": "3.03%",
+    "time": 317,
+    "timeDay": 338,
+    "timeWeek": 220,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2025-03-24": 20,
       "2025-03-23": 1426,
@@ -465,8 +464,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   }
 ]
