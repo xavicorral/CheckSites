@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 88,
-    "timeWeek": 158,
-    "timeMonth": 150,
+    "timeDay": 92,
+    "timeWeek": 130,
+    "timeMonth": 146,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
-    "timeDay": 852,
-    "timeWeek": 1121,
-    "timeMonth": 1069,
-    "timeYear": 1093,
+    "timeDay": 1278,
+    "timeWeek": 1143,
+    "timeMonth": 1078,
+    "timeYear": 1094,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "67.64%",
+    "uptime": "67.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.36%",
+    "uptimeYear": "91.63%",
     "time": 769,
-    "timeDay": 570,
-    "timeWeek": 777,
-    "timeMonth": 761,
+    "timeDay": 773,
+    "timeWeek": 785,
+    "timeMonth": 763,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-02-21": 23,
@@ -87,8 +87,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -99,16 +98,17 @@
     "status": "down",
     "uptime": "1.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.99%",
+    "uptimeWeek": "46.73%",
     "uptimeMonth": "35.38%",
     "uptimeYear": "3.11%",
     "time": 317,
     "timeDay": 0,
-    "timeWeek": 266,
+    "timeWeek": 277,
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-07": 112,
+      "2025-04-08": 110,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 940,
@@ -461,8 +461,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   }
 ]
