@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 88,
-    "timeWeek": 94,
-    "timeMonth": 146,
+    "timeDay": 87,
+    "timeWeek": 89,
+    "timeMonth": 141,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1143,
-    "timeWeek": 1185,
-    "timeMonth": 1089,
-    "timeYear": 1094,
+    "time": 1037,
+    "timeDay": 1220,
+    "timeWeek": 1164,
+    "timeMonth": 1103,
+    "timeYear": 1096,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "67.73%",
+    "uptime": "67.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.18%",
-    "time": 757,
-    "timeDay": 924,
-    "timeWeek": 828,
-    "timeMonth": 776,
-    "timeYear": 748,
+    "uptimeYear": "92.45%",
+    "time": 758,
+    "timeDay": 918,
+    "timeWeek": 819,
+    "timeMonth": 783,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-02-21": 23,
       "2025-01-21": 16,
@@ -84,8 +84,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   },
   {
@@ -96,16 +95,17 @@
     "status": "down",
     "uptime": "1.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.17%",
+    "uptimeWeek": "3.87%",
     "uptimeMonth": "35.38%",
     "uptimeYear": "3.11%",
     "time": 317,
     "timeDay": 0,
-    "timeWeek": 338,
+    "timeWeek": 0,
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-10": 109,
+      "2025-04-11": 110,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -458,8 +458,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   }
 ]
