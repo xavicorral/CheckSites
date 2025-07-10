@@ -42,9 +42,9 @@
     "url": "https://www.podocad.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
-    "status": "up",
+    "status": "down",
     "uptime": "70.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -54,6 +54,7 @@
     "timeMonth": 734,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2025-04-15": 31,
       "2025-02-21": 23,
       "2025-01-21": 16,
@@ -78,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-07-10": 123,
+      "2025-07-10": 225,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
