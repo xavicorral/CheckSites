@@ -69,19 +69,20 @@
     "url": "https://www.palabreto.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
-    "status": "down",
+    "status": "up",
     "uptime": "7.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "27.38%",
     "time": 570,
-    "timeDay": 691,
-    "timeWeek": 708,
-    "timeMonth": 684,
+    "timeDay": 631,
+    "timeWeek": 693,
+    "timeMonth": 680,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-12-13": 0,
+      "2025-12-14": 52,
+      "2025-12-13": 7,
       "2025-09-16": 583,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -347,8 +348,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   }
 ]
