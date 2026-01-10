@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 119,
-    "timeDay": 113,
-    "timeWeek": 105,
+    "timeDay": 77,
+    "timeWeek": 103,
     "timeMonth": 212,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1149,
-    "timeDay": 1137,
-    "timeWeek": 1464,
-    "timeMonth": 1196,
-    "timeYear": 1138,
+    "timeDay": 1095,
+    "timeWeek": 1380,
+    "timeMonth": 1191,
+    "timeYear": 1139,
     "dailyMinutesDown": {}
   },
   {
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "74.36%",
+    "uptime": "74.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 772,
-    "timeDay": 902,
+    "timeDay": 651,
     "timeWeek": 845,
-    "timeMonth": 771,
+    "timeMonth": 769,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2025-12-22": 22,
@@ -61,8 +61,7 @@
       "2025-07-10": 63,
       "2025-04-15": 31,
       "2025-02-21": 23,
-      "2025-01-21": 16,
-      "2025-01-10": 22
+      "2025-01-21": 16
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
     "status": "up",
-    "uptime": "9.45%",
+    "uptime": "9.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "34.51%",
-    "time": 592,
-    "timeDay": 883,
-    "timeWeek": 710,
-    "timeMonth": 673,
-    "timeYear": 592,
+    "uptimeYear": "34.79%",
+    "time": 591,
+    "timeDay": 486,
+    "timeWeek": 709,
+    "timeMonth": 670,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2026-01-04": 17,
       "2025-12-14": 52,
@@ -323,8 +322,7 @@
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
-      "2025-01-11": 1440,
-      "2025-01-10": 1440
+      "2025-01-11": 1440
     }
   }
 ]
