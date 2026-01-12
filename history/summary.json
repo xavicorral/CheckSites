@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 218,
-    "timeWeek": 142,
+    "timeDay": 128,
+    "timeWeek": 141,
     "timeMonth": 216,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1149,
-    "timeDay": 1159,
-    "timeWeek": 1323,
-    "timeMonth": 1181,
-    "timeYear": 1138,
+    "time": 1150,
+    "timeDay": 1266,
+    "timeWeek": 1324,
+    "timeMonth": 1184,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-01-11": 28
     }
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "74.41%",
+    "uptime": "74.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 772,
-    "timeDay": 852,
-    "timeWeek": 861,
-    "timeMonth": 769,
-    "timeYear": 770,
+    "timeDay": 825,
+    "timeWeek": 876,
+    "timeMonth": 770,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2025-12-22": 22,
       "2025-08-11": 16,
@@ -72,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
     "status": "up",
-    "uptime": "9.63%",
+    "uptime": "9.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "35.23%",
-    "time": 592,
-    "timeDay": 706,
-    "timeWeek": 718,
-    "timeMonth": 665,
-    "timeYear": 592,
+    "uptimeYear": "35.34%",
+    "time": 594,
+    "timeDay": 852,
+    "timeWeek": 748,
+    "timeMonth": 670,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2026-01-04": 17,
       "2025-12-14": 52,
@@ -322,8 +322,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   }
 ]
