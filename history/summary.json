@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 121,
-    "timeDay": 138,
-    "timeWeek": 124,
-    "timeMonth": 227,
-    "timeYear": 125,
+    "timeDay": 172,
+    "timeWeek": 132,
+    "timeMonth": 230,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2026-01-18": 20,
       "2025-10-14": 18,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1140,
-    "timeDay": 333,
-    "timeWeek": 329,
-    "timeMonth": 1024,
-    "timeYear": 1114,
+    "time": 1139,
+    "timeDay": 186,
+    "timeWeek": 287,
+    "timeMonth": 995,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2026-01-11": 28
     }
@@ -48,23 +48,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.podocad.net.ico",
     "slug": "podocad",
     "status": "up",
-    "uptime": "74.57%",
+    "uptime": "74.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 775,
-    "timeDay": 668,
-    "timeWeek": 750,
-    "timeMonth": 783,
+    "timeDay": 592,
+    "timeWeek": 682,
+    "timeMonth": 784,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2025-12-22": 22,
       "2025-08-11": 16,
       "2025-07-10": 63,
       "2025-04-15": 31,
-      "2025-02-21": 23,
-      "2025-01-21": 16
+      "2025-02-21": 23
     }
   },
   {
@@ -73,14 +72,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
     "status": "up",
-    "uptime": "10.20%",
+    "uptime": "10.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "37.53%",
+    "uptimeYear": "37.80%",
     "time": 598,
-    "timeDay": 554,
-    "timeWeek": 652,
+    "timeDay": 516,
+    "timeWeek": 611,
     "timeMonth": 683,
     "timeYear": 598,
     "dailyMinutesDown": {
@@ -314,8 +313,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   }
 ]
