@@ -69,12 +69,12 @@
     "url": "https://www.palabreto.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.palabreto.com.ico",
     "slug": "palabreto",
-    "status": "up",
+    "status": "down",
     "uptime": "89.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.38%",
+    "uptimeYear": "82.48%",
     "time": 638,
     "timeDay": 692,
     "timeWeek": 685,
@@ -147,7 +147,8 @@
       "2025-07-15": 1440,
       "2025-12-14": 52,
       "2025-12-13": 7,
-      "2026-01-04": 17
+      "2026-01-04": 17,
+      "2026-07-14": 0
     }
   }
 ]
